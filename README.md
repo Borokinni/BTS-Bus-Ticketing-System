@@ -1,4 +1,4 @@
-# BTS - Best Transport System
+# BTS - Bus Ticketing System
 
 ## Project Description
 
@@ -6,7 +6,6 @@ BTS (Best Transport System) is an Ionic application developed by Dansteve Adekan
 
 ## Features
 
-- Built with Ionic Framework for cross-platform mobile app development.
 - Responsive design that adapts to different device screens.
 - Light and dark mode support.
 - Optimized for mobile with touch-friendly design and iOS home screen app capability.
@@ -33,6 +32,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-For any inquiries, please reach out to Dansteve Adekanbi at [danstevea@gmail.com](mailto:danstevea@gmail.com).
 
 **Note:** This is a basic README template. You may need to update it based on the actual project details, such as the installation process, usage, dependencies, etc.

@@ -1,0 +1,44 @@
+/* To learn more about this file see: https://angular.io/config/tsconfig. */
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "baseUrl": "./",
+    "outDir": "./dist/out-tsc",
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitOverride": true,
+    "noPropertyAccessFromIndexSignature": true,
+    "noImplicitReturns": false,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "declaration": false,
+    "downlevelIteration": true,
+    "experimentalDecorators": true,
+    "moduleResolution": "node",
+    "importHelpers": true,
+    "target": "es2022",
+    "module": "es2020",
+    "lib": ["es2018", "dom"],
+    "useDefineForClassFields": false,
+    "resolveJsonModule": true,
+    "typeRoots": ["typings", "./types", "node_modules/@types"],
+    "paths": {
+      "@app-services/*": ["src/app/services/*"],
+      "@app-environments/*": ["src/environments/*"],
+      "@app-models/*": ["src/app/models/*"],
+      "@app-pages/*": ["src/app/pages/*"],
+      "@app-pipes/*": ["src/app/pipes/*"],
+      "@app-utils/*": ["src/app/utils/*"],
+      "@app-components/*": ["src/app/components/*"],
+    }
+  },
+  "angularCompilerOptions": {
+    "enableI18nLegacyMessageIdFormat": false,
+    "strictInjectionParameters": true,
+    "strictInputAccessModifiers": true,
+    "strictTemplates": true
+  }
+}

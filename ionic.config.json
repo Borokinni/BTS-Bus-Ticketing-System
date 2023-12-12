@@ -1,0 +1,7 @@
+{
+  "name": "bus-ticket",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

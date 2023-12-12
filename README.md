@@ -2,7 +2,7 @@
 
 ## Project Description
 
-BTS (Best Transport System) is an Ionic application developed by Dansteve Adekanbi. This application offers a wide range of transport services to suit your needs.
+BTS (Bus Ticketing System) is an Ionic application developed by Group 7A. This application offers a wide range of transport services to suit your needs.
 
 ## Features
 
